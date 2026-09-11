@@ -1,7 +1,7 @@
 # Sales Performance Dashboard — Google Looker Studio
 
 ## 🔗 Live Dashboard
-**[Click here to view the interactive dashboard]((https://datastudio.google.com/reporting/e5871339-713e-4898-9736-3444f6016875))**
+**[Click here to view the interactive dashboard((https://datastudio.google.com/reporting/e5871339-713e-4898-9736-3444f6016875))**
 
 ## Project Overview
 4-page interactive business intelligence dashboard analysing 
